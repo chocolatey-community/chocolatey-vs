@@ -1,0 +1,1 @@
+#tool nuget:?package=GitReleaseManager&version=0.8.0
