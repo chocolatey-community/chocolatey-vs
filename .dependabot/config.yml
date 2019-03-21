@@ -4,7 +4,6 @@ update_configs:
     directory: "/"
     update_schedule: "daily"
     target_branch: "develop"
-    version_requirement_updates: "auto"
     default_reviewers:
       - "gep13"
     default_assignees:
